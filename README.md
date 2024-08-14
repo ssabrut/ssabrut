@@ -1,4 +1,8 @@
-<h3 align="left">👋 Connect with Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Michael, from Indonesia<br><br>- 🔭 I’m working as AI Engineer<br>- 📚 I'm currently learning Web3 development<br>- ⚡ In my free time, I love exploring the nature</p>
 
 ###
 
@@ -16,23 +20,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssabrut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ssabrut&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Michael, from Indonesia<br><br>- 🔭 I’m working as AI Engineer<br>- 📚 I'm currently learning Web3 development<br>- ⚡ In my free time, I love exploring the nature</p>
 
 ###
 
@@ -112,6 +99,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ssabrut/ssabrut/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssabrut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ssabrut&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
