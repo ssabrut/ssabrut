@@ -8,7 +8,7 @@
     <br/>
   </samp>
   <br/>
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/pepe-the-frog-gif-4.gif" width="200">
+  <img src="https://media.tenor.com/yirwgrG_LDEAAAAM/pepo21.gif" width="200">
   <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/ssabrut" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white"></a> 
@@ -26,7 +26,7 @@
 <!--Intro start-->
 <ul>
   <li>
-    <p>🔭 I’m currently working on <strong>TensorFlow, PyTorch, TFX, MongoDB, PostgreSQL, ExpressJS, Smart Contract</strong></p>
+    <p>🔭 I’m currently working on <strong>TensorFlow, PyTorch, MongoDB, PostgreSQL, React, ExpressJS, Foundry, Hardhat</strong></p>
   </li>
   <li>
     <p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
