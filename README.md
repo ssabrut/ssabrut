@@ -8,6 +8,12 @@
     <br/>
   </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+  <h3>Where to find me</h3>
+  <p>
+    <a href="https://github.com/ssabrut" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/michaeleko/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a> 
+    <a href="https://www.instagram.com/michaeleco17/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a> 
+  </p>
 </p> 
 
 <div id="user-content-toc">
@@ -37,21 +43,32 @@
 <!--Intro end-->
 
 <!--- stats (start) -->
-<table align="center">
-  <tbody>
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssabrut&show_icons=true&theme=dark">
-        <br>
-        <br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ssabrut&show_icons=true&theme=radical"> 
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ssabrut&show_icons=true&theme=radical">
-      </td>
-    </tr>
-  </tbody>  
-</table>
+<div>
+  <details>
+    <summary align="left">How about some stats?
+      <img align="right" src="https://komarev.com/ghpvc/?username=ssabrut" />
+    </summary>
+    <p align="center">
+      <be>
+        <table align="center">
+          <tbody>
+            <tr border="none">
+              <td width="50%" align="center">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssabrut&show_icons=true&theme=dark">
+                <br>
+                <br>
+                <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ssabrut&show_icons=true&theme=radical"> 
+              </td>
+              <td width="50%" align="center">
+                <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ssabrut&show_icons=true&theme=radical">
+              </td>
+            </tr>
+          </tbody>  
+        </table>
+      </be>
+    </p>
+  </details>
+</div>
 <!--- stats (end) -->
 
 <!-- language -->
@@ -144,6 +161,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <!-- footer -->
 <h2 align="center">Support Me By Starring ⭐ Some Of My Repositories</h2>
