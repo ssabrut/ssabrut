@@ -7,7 +7,7 @@
       I love diving into machine learning challenges and discovering how decentralized systems can empower the future of tech.
     <br/>
   </samp>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/pepe-the-frog-gif-4.gif" width="200">
   <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/ssabrut" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white"></a> 
