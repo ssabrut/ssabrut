@@ -149,9 +149,9 @@
         <p>Web3.js</p>
       </td>
       <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4i1wWF516fnkizp1WSDG5rnG8GfkQAVoVQ&s" width="48" height="48" />
+        <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="48" height="48" />
         <br>
-        <p>Hardhat</p>
+        <p>Foundry</p>
       </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="48" height="48" />
