@@ -3,10 +3,11 @@
   <samp>
     👋 Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/michaeleko/">Michael Eko</a></b>.
     <br/>
-      I'm a Junior AI Engineer who is passionate about exploring the intersection of Artificial Intelligence and Web3 technology. 
+      I'm a Junior AI Engineer passionate about exploring the intersection of Artificial Intelligence and Web3 technology. 
       I love diving into machine learning challenges and discovering how decentralized systems can empower the future of tech.
     <br/>
   </samp>
+  <br/>
   <img src="https://www.gifcen.com/wp-content/uploads/2023/05/pepe-the-frog-gif-4.gif" width="200">
   <h3>Where to find me</h3>
   <p>
