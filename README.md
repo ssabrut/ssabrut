@@ -55,15 +55,91 @@
 <!--- stats (end) -->
 
 <!-- language -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools and Frameworks:</h3>
 <table align="center">
   <tbody>
     <tr>
       <td align="center" width="96">
-        <a href="#html5">
-          <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5">
-        </a>
-        <br>Html5
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" />
+        <br>
+        <p>Python</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="48" height="48" />
+        <br>
+        <p>JavaScript</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp" width="48" height="48" />
+        <br>
+        <p>Solidity</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="48" height="48" />
+        <br>
+        <p>PHP</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" />
+        <br>
+        <p>TensorFlow</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-1694x2048-jgwjy3ne.png" width="48" height="48" />
+        <br>
+        <p>PyTorch</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="48" height="48" />
+        <br>
+        <p>Hugging Face</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48" />
+        <br>
+        <p>LangChain</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://miro.medium.com/v2/resize:fit:500/1*8xvg7T-wPBrq_9O-Bxnv3w.png" width="48" height="48" />
+        <br>
+        <p>ollama</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.cdnlogo.com/logos/f/49/fastapi.svg" width="48" height="48" />
+        <br>
+        <p>FastAPI</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="48" height="48" />
+        <br>
+        <p>Flask</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="48" height="48" />
+        <br>
+        <p>NodeJS</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="48" height="48" />
+        <br>
+        <p>ReactJS</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="48" height="48" />
+        <br>
+        <p>Web3.js</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4i1wWF516fnkizp1WSDG5rnG8GfkQAVoVQ&s" width="48" height="48" />
+        <br>
+        <p>Hardhat</p>
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="48" height="48" />
+        <br>
+        <p>Laravel</p>
       </td>
     </tr>
   </tbody>
