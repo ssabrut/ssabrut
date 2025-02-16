@@ -31,7 +31,25 @@
     <p>📫 Feel free to reach me out <strong><a href="mailto:michael.gunawan2002@gmail.com">michael.gunawan2002@gmail.com</a></strong></p>
   </li>
   <li>
-    <p>🏠 Also I have a startup with my friend that combine AI with Blockchain called <a href="https://www.linkedin.com/company/peridotfound/">Peridot</a>.</p>
+    <p>🏠 Also I have a startup with my friend that combines AI with Blockchain called <a href="https://www.linkedin.com/company/peridotfound/">Peridot</a>.</p>
   </li>
 </ul>
 <!--Intro end-->
+
+<!--- stats (start) -->
+<table align="center">
+  <tbody>
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssabrut&show_icons=true&theme=dark">
+        <br>
+        <br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ssabrut&show_icons=true&theme=radical"> 
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ssabrut&show_icons=true&theme=radical">
+      </td>
+    </tr>
+  </tbody>  
+</table>
+<!--- stats (end) -->
