@@ -3,7 +3,7 @@
   <samp>
     👋 Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/michaeleko/">Michael Eko</a></b>.
     <br/>
-      I'm a Junior AI Engineer passionate about exploring the intersection of Artificial Intelligence and Web3 technology. 
+      I'm an AI Engineer passionate about exploring the intersection of Artificial Intelligence and Web3 technology. 
       I love diving into machine learning challenges and discovering how decentralized systems can empower the future of tech.
     <br/>
   </samp>
