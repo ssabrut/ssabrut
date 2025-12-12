@@ -26,7 +26,7 @@
 <!--Intro start-->
 <ul>
   <li>
-    <p>🔭 I’m currently working on <strong>TensorFlow, PyTorch, MongoDB, PostgreSQL, React, ExpressJS, Foundry, Hardhat</strong></p>
+    <p>🔭 I’m currently working on <strong>TensorFlow, PyTorch, MongoDB, PostgreSQL, Foundry, Hardhat</strong></p>
   </li>
   <li>
     <p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
@@ -93,11 +93,6 @@
         <p>Solidity</p>
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="48" height="48" />
-        <br>
-        <p>PHP</p>
-      </td>
-      <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" />
         <br>
         <p>TensorFlow</p>
@@ -112,13 +107,13 @@
         <br>
         <p>Hugging Face</p>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48" />
         <br>
         <p>LangChain</p>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://miro.medium.com/v2/resize:fit:500/1*8xvg7T-wPBrq_9O-Bxnv3w.png" width="48" height="48" />
         <br>
@@ -135,16 +130,6 @@
         <p>Flask</p>
       </td>
       <td align="center" width="96">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" width="48" height="48" />
-        <br>
-        <p>NodeJS</p>
-      </td>
-      <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="48" height="48" />
-        <br>
-        <p>ReactJS</p>
-      </td>
-      <td align="center" width="96">
         <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" width="48" height="48" />
         <br>
         <p>Web3.js</p>
@@ -153,11 +138,6 @@
         <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="48" height="48" />
         <br>
         <p>Foundry</p>
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="48" height="48" />
-        <br>
-        <p>Laravel</p>
       </td>
     </tr>
   </tbody>
